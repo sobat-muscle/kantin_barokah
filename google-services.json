@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514295568608",
+    "firebase_url": "https://kantin-barokah.firebaseio.com",
+    "project_id": "kantin-barokah",
+    "storage_bucket": "kantin-barokah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514295568608:android:8907582af7c5fda6",
+        "android_client_info": {
+          "package_name": "com.example.kantinbarokah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514295568608-qmmaq5ki6jrjdq3embojt2taapb08544.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMjogvu_q9h-IPrxd2k5i7LbwtAsJR7JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514295568608-qmmaq5ki6jrjdq3embojt2taapb08544.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
