@@ -82,7 +82,6 @@ class Model_orders extends CI_Model
 			$items = array(
 				'order_id' => $order_id,
 				'product_id' => $this->input->post('product')[$x],
-				'store_id' => $this->input->post('store_name'),
 				'qty' => $this->input->post('qty')[$x],
 				'rate' => $this->input->post('rate_value')[$x],
 				'amount' => $this->input->post('amount_value')[$x],
@@ -149,7 +148,6 @@ class Model_orders extends CI_Model
 				$items = array(
 					'order_id' => $id,
 					'product_id' => $this->input->post('product')[$x],
-					'store_id' => $this->input->post('store_name'),
 					'qty' => $this->input->post('qty')[$x],
 					'rate' => $this->input->post('rate_value')[$x],
 					'amount' => $this->input->post('amount_value')[$x],
